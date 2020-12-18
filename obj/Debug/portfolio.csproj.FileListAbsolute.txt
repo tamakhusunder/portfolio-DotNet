@@ -1,0 +1,6 @@
+E:\8th sem\dotnet\vs_project\portfolio\portfolio\portfolio\bin\portfolio.dll.config
+E:\8th sem\dotnet\vs_project\portfolio\portfolio\portfolio\bin\portfolio.dll
+E:\8th sem\dotnet\vs_project\portfolio\portfolio\portfolio\bin\portfolio.pdb
+E:\8th sem\dotnet\vs_project\portfolio\portfolio\portfolio\obj\Debug\portfolio.csprojResolveAssemblyReference.cache
+E:\8th sem\dotnet\vs_project\portfolio\portfolio\portfolio\obj\Debug\portfolio.dll
+E:\8th sem\dotnet\vs_project\portfolio\portfolio\portfolio\obj\Debug\portfolio.pdb
